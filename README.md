@@ -48,7 +48,7 @@ python3 main.py
 It may take few seconds depending upon the configuration of your machine.
 
 ### Output Looks like
-![before](images/before.png)
+![before]https://photos.app.goo.gl/VKAJm2aGdgYg5sJBA
 
 to
 
